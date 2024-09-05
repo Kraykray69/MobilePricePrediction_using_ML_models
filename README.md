@@ -1,1 +1,1 @@
-# MobilePricePrediction-All-Models-
+The Mobile Price Prediction project uses machine learning to predict the price range of mobile phones based on features like battery power, RAM, and processor speed. Various models, including Decision Trees and Random Forest, are trained and evaluated to determine the most accurate predictions. This project aims to provide insights into how technical specifications influence mobile phone pricing.
